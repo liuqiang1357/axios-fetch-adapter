@@ -8,7 +8,7 @@ You can install the adapter directly from this repository URL or feel free to co
 
 ``` sh
 npm install axios
-npm install @vespaiach/axios-fetch-adapter
+npm install @liuqiang1357/axios-fetch-adapter
 ```
 
 There are two ways to use it:
